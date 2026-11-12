@@ -1,6 +1,6 @@
 # 🔎 LostLink
 
-LostLink is a Thapar campus lost-and-found web app prototype. Students can post lost or found items, browse and filter reports, and submit private claims to help reunite belongings with their owners. 🤝
+LostLink is a campus lost-and-found web app prototype. Students can post lost or found items, browse and filter reports, and submit private claims to help reunite belongings with their owners. 🤝
 
 ## ✨ Features
 
@@ -17,7 +17,7 @@ LostLink is a Thapar campus lost-and-found web app prototype. Students can post 
 To run LostLink locally, clone this repository to your system:
 
 ```
-git clone <repository-url>
+git clone https://github.com/lost-my-tiara/LostLink
 ```
 Navigate to the project folder:
 
